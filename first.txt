@@ -1,1 +1,2 @@
 My first comand line file
+Adding second line to the file
